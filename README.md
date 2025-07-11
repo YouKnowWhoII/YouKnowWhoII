@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm Nadul!<br>Fullstack Dev | SE Intern @Evolza.io</p>
+<p align="center">Hi 👋, I'm Nadul!<br>Fullstack Dev | CS Undergraduate</p>
 
 ###
 
