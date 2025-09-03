@@ -55,11 +55,6 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/YouKnowWhoII/YouKnowWhoII/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/YouKnowWhoII/count.svg?"  />
